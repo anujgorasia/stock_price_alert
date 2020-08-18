@@ -1,0 +1,10 @@
+{
+  "alert1":
+  {
+  "stock": {"name": "Nutanix", "ticker": "NTNX"}, "phone_number": {"Riken": 8322770438}, "email": {"Riken": "riken14@gmail.com"}
+  },
+  "alert2":
+  {
+  "stock": {"name": "Docusign", "ticker": "DOCU"}, "phone_number": {"Anuj": 4086664796}, "email": {"Anuj": "anujgorasia@gmail.com"}
+  }
+}
